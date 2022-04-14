@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L18 0L18 18L0 18L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Search-icon">
+    <path d="M0 0L18 0L18 18L0 18L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M16.5 15L15 16.5L10.5 12L10.5 10.5L12 10.5L16.5 15Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M6.75 12C3.825 12 1.5 9.675 1.5 6.75C1.5 3.825 3.825 1.5 6.75 1.5C9.675 1.5 12 3.825 12 6.75C12 9.675 9.675 12 6.75 12L6.75 12ZM6.75 3C4.65 3 3 4.65 3 6.75C3 8.85 4.65 10.5 6.75 10.5C8.85 10.5 10.5 8.85 10.5 6.75C10.5 4.65 8.85 3 6.75 3L6.75 3Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M9.46783 10.0509L9.99824 9.52063L11.8541 11.377L11.3237 11.9073L9.46783 10.0509Z" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
